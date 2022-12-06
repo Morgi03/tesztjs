@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Morgi03/tesztjs/issues"
   },
-  "homepage": "https://github.com/Morgi03/tesztjs#readme"
+  "homepage": "https://github.com/Morgi03/tesztjs#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
 }
